@@ -1,0 +1,6 @@
+127.0.0.1 - - [14/Apr/2021:00:14:05 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [14/Apr/2021:00:14:06 +0700] "GET /quanlycuahang/WEB-INF/classes/com/quanlycuahang/Application.java HTTP/1.1" 404 1047
+127.0.0.1 - - [14/Apr/2021:00:16:56 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [14/Apr/2021:00:16:57 +0700] "GET /quanlycuahang/ HTTP/1.1" 404 146
+127.0.0.1 - - [14/Apr/2021:00:19:09 +0700] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [14/Apr/2021:00:19:09 +0700] "GET /quanlycuahang/WEB-INF/classes/com/quanlycuahang/Application.java HTTP/1.1" 404 1047
